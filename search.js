@@ -1,6 +1,6 @@
-import {Node} from './node.js'
-import {Agenda} from './agenda.js'
-import {Explored} from './explored.js'
+import {Node} from 'node.js'
+import {Agenda} from 'agenda.js'
+import {Explored} from 'explored.js'
 
 let n_nodes = 0
 
